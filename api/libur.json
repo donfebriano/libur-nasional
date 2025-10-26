@@ -1,0 +1,206 @@
+{
+  "2025": {
+    "libur_nasional": [
+      {
+        "tanggal": "2025-01-01",
+        "nama": "Tahun Baru 2025 Masehi"
+      },
+      {
+        "tanggal": "2025-01-29",
+        "nama": "Isra Mikraj Nabi Muhammad SAW"
+      },
+      {
+        "tanggal": "2025-03-01",
+        "nama": "Hari Raya Nyepi Tahun Baru Saka 1947"
+      },
+      {
+        "tanggal": "2025-03-28",
+        "nama": "Wafat Isa Al-Masih"
+      },
+      {
+        "tanggal": "2025-03-31",
+        "nama": "Hari Raya Paskah"
+      },
+      {
+        "tanggal": "2025-04-21",
+        "nama": "Hari Raya Idul Fitri 1446 Hijriah"
+      },
+      {
+        "tanggal": "2025-04-22",
+        "nama": "Hari Raya Idul Fitri 1446 Hijriah"
+      },
+      {
+        "tanggal": "2025-05-01",
+        "nama": "Hari Buruh Internasional"
+      },
+      {
+        "tanggal": "2025-05-29",
+        "nama": "Hari Raya Waisak 2569"
+      },
+      {
+        "tanggal": "2025-06-01",
+        "nama": "Hari Lahir Pancasila"
+      },
+      {
+        "tanggal": "2025-06-06",
+        "nama": "Hari Raya Idul Adha 1446 Hijriah"
+      },
+      {
+        "tanggal": "2025-06-27",
+        "nama": "Tahun Baru Islam 1447 Hijriah"
+      },
+      {
+        "tanggal": "2025-08-17",
+        "nama": "Hari Kemerdekaan Republik Indonesia"
+      },
+      {
+        "tanggal": "2025-09-15",
+        "nama": "Maulid Nabi Muhammad SAW"
+      },
+      {
+        "tanggal": "2025-12-25",
+        "nama": "Hari Raya Natal"
+      }
+    ],
+    "cuti_bersama": [
+      {
+        "tanggal": "2025-01-02",
+        "nama": "Cuti Bersama Tahun Baru"
+      },
+      {
+        "tanggal": "2025-03-03",
+        "nama": "Cuti Bersama Nyepi"
+      },
+      {
+        "tanggal": "2025-04-18",
+        "nama": "Cuti Bersama Idul Fitri"
+      },
+      {
+        "tanggal": "2025-04-23",
+        "nama": "Cuti Bersama Idul Fitri"
+      },
+      {
+        "tanggal": "2025-04-24",
+        "nama": "Cuti Bersama Idul Fitri"
+      },
+      {
+        "tanggal": "2025-06-02",
+        "nama": "Cuti Bersama Hari Lahir Pancasila"
+      },
+      {
+        "tanggal": "2025-12-24",
+        "nama": "Cuti Bersama Natal"
+      },
+      {
+        "tanggal": "2025-12-26",
+        "nama": "Cuti Bersama Natal"
+      }
+    ]
+  },
+  "2026": {
+    "libur_nasional": [
+      {
+        "tanggal": "2026-01-01",
+        "nama": "Tahun Baru 2026 Masehi"
+      },
+      {
+        "tanggal": "2026-01-18",
+        "nama": "Isra Mikraj Nabi Muhammad SAW"
+      },
+      {
+        "tanggal": "2026-03-20",
+        "nama": "Hari Raya Nyepi Tahun Baru Saka 1948"
+      },
+      {
+        "tanggal": "2026-04-03",
+        "nama": "Wafat Isa Al-Masih"
+      },
+      {
+        "tanggal": "2026-04-05",
+        "nama": "Hari Raya Paskah"
+      },
+      {
+        "tanggal": "2026-04-10",
+        "nama": "Hari Raya Idul Fitri 1447 Hijriah"
+      },
+      {
+        "tanggal": "2026-04-11",
+        "nama": "Hari Raya Idul Fitri 1447 Hijriah"
+      },
+      {
+        "tanggal": "2026-05-01",
+        "nama": "Hari Buruh Internasional"
+      },
+      {
+        "tanggal": "2026-05-18",
+        "nama": "Hari Raya Waisak 2570"
+      },
+      {
+        "tanggal": "2026-06-01",
+        "nama": "Hari Lahir Pancasila"
+      },
+      {
+        "tanggal": "2026-06-26",
+        "nama": "Hari Raya Idul Adha 1447 Hijriah"
+      },
+      {
+        "tanggal": "2026-07-17",
+        "nama": "Tahun Baru Islam 1448 Hijriah"
+      },
+      {
+        "tanggal": "2026-08-17",
+        "nama": "Hari Kemerdekaan Republik Indonesia"
+      },
+      {
+        "tanggal": "2026-10-05",
+        "nama": "Maulid Nabi Muhammad SAW"
+      },
+      {
+        "tanggal": "2026-12-25",
+        "nama": "Hari Raya Natal"
+      }
+    ],
+    "cuti_bersama": [
+      {
+        "tanggal": "2026-01-02",
+        "nama": "Cuti Bersama Tahun Baru"
+      },
+      {
+        "tanggal": "2026-03-23",
+        "nama": "Cuti Bersama Nyepi"
+      },
+      {
+        "tanggal": "2026-04-06",
+        "nama": "Cuti Bersama Paskah"
+      },
+      {
+        "tanggal": "2026-04-08",
+        "nama": "Cuti Bersama Idul Fitri"
+      },
+      {
+        "tanggal": "2026-04-09",
+        "nama": "Cuti Bersama Idul Fitri"
+      },
+      {
+        "tanggal": "2026-04-12",
+        "nama": "Cuti Bersama Idul Fitri"
+      },
+      {
+        "tanggal": "2026-04-13",
+        "nama": "Cuti Bersama Idul Fitri"
+      },
+      {
+        "tanggal": "2026-06-02",
+        "nama": "Cuti Bersama Hari Lahir Pancasila"
+      },
+      {
+        "tanggal": "2026-12-24",
+        "nama": "Cuti Bersama Natal"
+      },
+      {
+        "tanggal": "2026-12-28",
+        "nama": "Cuti Bersama Natal"
+      }
+    ]
+  }
+}

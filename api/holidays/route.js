@@ -1,4 +1,4 @@
-import holidays from "../../../data/holidays.json" assert { type: "json" };
+import holidays from "../../../data/holidays.json" with { type: "json" };
 
 export async function GET(request) {
   const { searchParams } = new URL(request.url);
